@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidOlayemi
-- 👀 I’m interested in Data Science with Python 
-- 🌱 I’m currently learning Data Science with Python 
+- 👀 I’m interested in Data Science and Machine Learning 
+- 🌱 I’m currently learning Introduction to Data Science with Python 
 - 💞️ I’m looking to collaborate on Data Science projects 
 - 📫 How to reach me bigdav2009@gmail.com
 
